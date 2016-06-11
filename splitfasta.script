@@ -1,0 +1,10 @@
+#!/bin/bash
+
+FILE_NAME=bpfastafull
+NODES=6
+
+INPUT_FILE="$FILE_NAME.fas"
+LINE=$(grep -o ">" $INPUT_FILE | wc -l)
+VALUE=$(($LINE / $NODES + 1))
+
+./splitfasta.pl $FILE_NAME $VALUE
