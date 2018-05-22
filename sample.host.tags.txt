@@ -1,0 +1,53 @@
+vertebrate 
+	vertebrate
+	Camelus
+	Ovis aries
+	Sus scrofa
+	Homo sapiens
+	Phocoena phocoena 
+	capybara
+	Hydrochaeris hydrochaeris
+	cat
+	horse
+	Thymallus
+	wild boar
+	Sus scrofa
+	Sciaenops ocellatus
+	goose
+	mouse
+	Saccopteryx bilineata
+invertebrate
+	invertebrate
+	Austroagallia avicula
+	Empoasca
+	Kerria lacca 
+	Cryptotermes cavifrons
+	whole insect
+	Reptalus
+	Hyalestes obsoletus
+	Rimicaris exoculata
+	terrestris
+	fetida
+plant
+	plant
+	Pinus sylvestris
+	Catharanthus roseus
+	Solanum melongena
+	Ligustrum japonicum
+	Toona
+	Allium cepa
+	Parthenium hysterophorus
+	Pinus mugo
+	Parthenium hysterophorus
+	Citrus aurantifolia
+	Datura stramonium
+	Convolvulus arvensis
+	Primula acaulis
+	Sesamum indicum
+	Crataegus monogyna
+	sugar beet
+	Ligustrum japonicum
+	Toona
+	Allium cepa
+	Cleome viscosa
+	leaves	
