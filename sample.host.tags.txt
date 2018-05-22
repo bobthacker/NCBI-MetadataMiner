@@ -1,8 +1,8 @@
-vertebrate 
+vertebrate
 	vertebrate
 	Camelus
 	Ovis aries
-	Sus scrofa
+	scrofa
 	Homo sapiens
 	Phocoena phocoena 
 	capybara
@@ -11,7 +11,6 @@ vertebrate
 	horse
 	Thymallus
 	wild boar
-	Sus scrofa
 	Sciaenops ocellatus
 	goose
 	mouse
