@@ -5,3 +5,5 @@ Spruce is a collection of tools to retrieve metadata and organize it according t
 A primary application is retrieving metadata from NCBI GenBank format records.
 
 These scripts are in development -- additional documentation is in progress.
+
+For a walkthrough of how to use these scripts, see "Spruce.MetadataMiner.Walkthrough.pdf"
