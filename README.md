@@ -1,4 +1,8 @@
-# NCBI-MetadataMiner
-Scripts to aggregate metadata from NCBI records
+# Spruce - NCBI Metadata Miner
+Scripts to aggregate metadata from NCBI records and other sources.
+
+Spruce is a collection of tools to retrieve metadata and organize it according to a user-defined ontology of terms.
+
+A primary application is retrieving metadata from NCBI GenBank format records.
 
 These scripts are in development -- additional documentation is in progress.
